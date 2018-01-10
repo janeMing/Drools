@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
-    <kbase name="com.mydrools.rules" packages="com.mydrools.rules">
-        <ksession name="ksession-com.mydrools.rules"/>
+    <kbase name="com.mydroolstest.rules" packages="com.mydroolstest.rules">
+        <ksession name="ksession-com.mydroolstest.rules"/>
     </kbase>
 </kmodule>

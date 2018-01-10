@@ -1,6 +1,6 @@
-package com.mydrools
+package com.mydroolstest.rules
  
-import com.mydrools.entity.Message;
+import com.mydroolstest.entity.Message;
  
 rule "Hello Worlds"
     when

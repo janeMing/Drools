@@ -1,4 +1,4 @@
-package com.mydrools.entity;
+package com.mydroolstest.entity;
 
 public class Message implements java.io.Serializable{
 
