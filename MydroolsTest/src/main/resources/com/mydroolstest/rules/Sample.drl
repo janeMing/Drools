@@ -2,7 +2,7 @@ package com.mydroolstest.rules
  
 import com.mydroolstest.entity.Message;
  
-rule "Hello Worlds"
+rule "Hello World"
     when
         m : Message( status == Message.HELLO, myMessage : message )
     then
