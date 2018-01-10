@@ -7,7 +7,7 @@ rule "Hello Worlds"
         m : Message( status == Message.HELLO, myMessage : message )
     then
         System.out.println( myMessage );
-        m.setMessage( "Goodbye cruel worlds" );
+        m.setMessage("Goodbye cruel worlds" );
         m.setStatus( Message.GOODBYE );
         update( m );
 end
